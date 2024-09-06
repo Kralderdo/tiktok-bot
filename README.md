@@ -71,7 +71,7 @@ You can book a private online meeting with me to help you install and run the bo
 
 This tool is created for educational purposes only. The developer assumes no liability for any misuse or damage caused by this tool. It is the end user's responsibility to comply with all applicable local, state, national, and international laws.
 
-- **Ethical Use**: Use this bot responsibly and ethically. Do not use it to spam or harm other users.
+- **Ethical Use hu**: Use this bot responsibly and ethically. Do not use it to spam or harm other users.
 - **Consent**: Ensure you have the consent of the account holder before using this bot on any account.
 - **No Warranty**: This software is provided "as is", without warranty of any kind.
 
@@ -80,3 +80,4 @@ By using this software, you agree to the terms of this disclaimer and to provide
 ## Contributions
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please feel free to fork the repository and submit a pull request.
+.
